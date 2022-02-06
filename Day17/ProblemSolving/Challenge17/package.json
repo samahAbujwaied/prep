@@ -1,0 +1,12 @@
+{
+  "name": "challenge17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Challenge17.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start":"node" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

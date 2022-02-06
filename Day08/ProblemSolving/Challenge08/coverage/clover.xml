@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644096848865" clover="3.2.0">
+  <project timestamp="1644096848865" name="All files">
+    <metrics statements="32" coveredstatements="32" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="38" coveredelements="38" complexity="0" loc="32" ncloc="32" packages="1" files="1" classes="1"/>
+    <file name="Challenge08.js" path="/Users/user/prep-course-std/Day08/ProblemSolving/Challenge08/Challenge08.js">
+      <metrics statements="32" coveredstatements="32" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="3" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="85" count="1" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+      <line num="88" count="1" type="stmt"/>
+      <line num="89" count="4" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
+      <line num="101" count="1" type="stmt"/>
+      <line num="137" count="1" type="stmt"/>
+      <line num="138" count="3" type="stmt"/>
+      <line num="139" count="3" type="stmt"/>
+      <line num="141" count="3" type="stmt"/>
+      <line num="142" count="12" type="stmt"/>
+      <line num="143" count="12" type="stmt"/>
+      <line num="144" count="48" type="stmt"/>
+      <line num="149" count="3" type="stmt"/>
+      <line num="170" count="1" type="stmt"/>
+      <line num="172" count="2" type="stmt"/>
+      <line num="173" count="2" type="stmt"/>
+      <line num="174" count="2" type="stmt"/>
+      <line num="175" count="8" type="stmt"/>
+      <line num="177" count="8" type="stmt"/>
+      <line num="178" count="8" type="stmt"/>
+      <line num="179" count="24" type="stmt"/>
+      <line num="180" count="96" type="cond" truecount="2" falsecount="0"/>
+      <line num="181" count="6" type="stmt"/>
+      <line num="182" count="6" type="stmt"/>
+      <line num="190" count="2" type="stmt"/>
+      <line num="193" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

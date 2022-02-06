@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644097339522" clover="3.2.0">
+  <project timestamp="1644097339522" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="6" elements="27" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="Challenge09.js" path="/Users/user/prep-course-std/Day09/ProblemSolving/Challenge09/Challenge09.js">
+      <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="6"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="9" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="8" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="110" count="1" type="stmt"/>
+      <line num="112" count="2" type="stmt"/>
+      <line num="113" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="114" count="3" type="stmt"/>
+      <line num="116" count="3" type="stmt"/>
+      <line num="120" count="2" type="stmt"/>
+      <line num="138" count="1" type="stmt"/>
+      <line num="142" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,13 @@
+{
+  "name": "challenge14",
+  "version": "1.0.0",
+  "description": "### For today Problem Solving exercise please follow the instructions:",
+  "main": "Challenge14.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start":"node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
